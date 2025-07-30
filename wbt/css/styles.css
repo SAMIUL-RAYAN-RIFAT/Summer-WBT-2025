@@ -1,0 +1,63 @@
+selection {
+    text-align: center;
+    background-color: #fff;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #b71c1c;
+}
+
+header {
+    text-align: center;
+
+    background-color: #e3f2fd;
+    border-bottom: 2px solid #ccc;
+}
+
+nav {
+
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+
+    margin: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #0d47a1;
+}
+
+nav a:hover {
+    color: #bd111d;
+    text-decoration: underline;
+}
+
+.text {
+    text-decoration: underline cornflowerblue;
+}
+
+.Container {
+    display: flex;
+    align-items: center;
+    padding: 80px;
+}
+
+.image img {
+
+    border-radius: 50%;
+}
+
+
+
+
+footer {
+    clear: both;
+    text-align: center;
+    background-color: #e0e0e0;
+
+}
