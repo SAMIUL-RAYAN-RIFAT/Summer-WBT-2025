@@ -42,7 +42,7 @@
     echo "Solution of Question 4:<br>";
     $a=5;
     $b=10;
-    $c=20s;
+    $c=20;
     echo "The numbers are $a, $b, $c<br>";
     echo "The largest number = ";
     if($a>$b && $a>$c)
